@@ -1,0 +1,1 @@
+{this.isLoggedIn() ?<Route path="/users/:id" component={UserDetail} />  : <Redirect path="/users/:id" to="/login-register" />}{/* do same for all routes except login-register */}</Switch>
