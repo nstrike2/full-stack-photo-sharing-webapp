@@ -1,4 +1,4 @@
-# full-stack-photo-sharing-webapp
+# Full Stack Photo Sharing Webapp
 This is a photo sharing web app build using ReactJS, NodeJS/ExpressJS, HTML/CSS, and MongoDB, enabling users to interact with profiles, comments, and photos, with functionality to upload photos/comments.
 
 I utilized ReactJS/JSX to build front-end UI and enable dynamic view switching, using the Material-UI framework to style a mobile responsive page.
